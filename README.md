@@ -7,6 +7,8 @@ The scripts here will:
 3) Run VarTrix to call mutations given a predefined VCF file
 
 The scripts are written to run in a HPC with SLURM.  
+You execute 07.0_bamsCB.sh from the command line. This will call and execute 07.0_bamsCB.run. When all bams are formatted, you execute 08.0_vartrix.sh that will call and execute 08.0_vartrix.run to identified known somatic mutations    
+
 
 
  
