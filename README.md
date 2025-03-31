@@ -6,4 +6,7 @@ The scripts here will:
 2) Index the formatted bams
 3) Run VarTrix to call mutations given a predefined VCF file
 
+The scripts are written to run in a HPC with SLURM.  
+
+
  
